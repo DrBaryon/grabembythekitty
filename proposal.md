@@ -16,7 +16,7 @@ Users will be able to:
   Click, hold, drag and release a cat into Kitmo to remove them from play.
   Keep track of carpet status and the number of cats until the next wave.
   Adjust difficulty and remove/include special cats (e.g bad hombres)
-  Pause the game, opening a menu from which on can quit or restart the game.
+  Pause the game, opening a menu from which one can quit or restart the game.
 
 This project will be implemented with the following technologies:
 
