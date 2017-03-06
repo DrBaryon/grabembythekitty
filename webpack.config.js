@@ -1,7 +1,8 @@
 module.exports = {
   entry: "./lib/main.js",
   output: {
-  	filename: "./lib/bundle.js"
+  	filename: "./lib/bundle.js",
+    crossOriginLoading: "anonymous"
   },
   devtool: 'source-map',
 };
