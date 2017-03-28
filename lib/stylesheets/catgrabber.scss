@@ -1,8 +1,19 @@
+body {
+  background-color: #FAEBD7;
+  font-family: 'Acme', sans-serif;
+}
+
 h1 {
   margin: 0 auto;
+  text-align: center;
+  padding: 32px;
 }
 
 canvas {
-  margin: 0 auto;
-
+  position: absolute;
+  top: 100;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin:auto;
 }
