@@ -1,12 +1,14 @@
 body {
   background-color: #FAEBD7;
   font-family: 'Acme', sans-serif;
+
 }
 
 h1 {
   margin: 0 auto;
   text-align: center;
   padding: 32px;
+  display: block;
 }
 
 a {
@@ -14,13 +16,15 @@ a {
   text-align: center;
   padding: 8px;
   font-family: 'Acme', sans-serif;
+  display: block;
 }
 
 canvas {
-  position: absolute;
-  top: 100;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin:auto;
+  // position: absolute;
+  // top: 100;
+  // bottom: 0;
+  // left: 0;
+  // right: 0;
+  margin: auto;
+  display: block;
 }
